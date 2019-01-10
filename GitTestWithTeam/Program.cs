@@ -10,6 +10,7 @@ namespace GitTestWithTeam
         static void Main(string[] args)
         {
             Console.Write("Hello Im Yana");
+            Console.Write("Hello Im Mazita");
         }
     }
 }
